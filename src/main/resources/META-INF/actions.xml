@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:soapui-actions xmlns:tns="http://eviware.com/soapui/config">
+
+
+    <tns:action id="GetProjectLevelExeDataAction" actionClass="com.sri.soapuiplugin.materialtestreport.GetProjectLevelExeDataAction"/>
+
+
+
+    <tns:actionGroup id="EnabledWsdlProjectActions">
+        <tns:actionMapping actionId="GetProjectLevelExeDataAction"/>
+    </tns:actionGroup>
+
+    <tns:actionGroup id="WsdlProjectActions">
+        <tns:actionMapping actionId="GetProjectLevelExeDataAction"/>
+    </tns:actionGroup>
+
+    <tns:actionGroup id="ProjectActions">
+        <tns:actionMapping actionId="GetProjectLevelExeDataAction"/>
+    </tns:actionGroup>
+
+</tns:soapui-actions>
