@@ -13,4 +13,4 @@ mvn clean build
 * graph for visual status
 
 
-License under [MIT] (https://github.com/sridhareaswaran/SoapUI---Material-Style-Report/blob/master/LICENSE.txt)
+Licensed under [MIT] (https://github.com/sridhareaswaran/SoapUI---Material-Style-Report/blob/master/LICENSE.txt)
