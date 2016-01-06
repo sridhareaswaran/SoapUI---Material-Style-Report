@@ -11,6 +11,8 @@ mvn clean build
 #### todo
 * add more step types
 * graph for visual status
+* add example
+* add explicit report control variables
 
 
 Licensed under [MIT] (https://github.com/sridhareaswaran/SoapUI---Material-Style-Report/blob/master/LICENSE.txt)
